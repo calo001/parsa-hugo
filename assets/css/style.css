@@ -16,6 +16,12 @@ VERSION:	Versoin Number
   font-display: swap;
 }
 
+.pruebamia {
+  color: blue;
+  border: blue solid 1px;
+  padding: 1em;
+}
+
 body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
